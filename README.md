@@ -11,6 +11,6 @@ The source code will be available for download.
 Email:
 jh2e24@soton.ac.uk
 
-Program language: SQL
+Program language: HTML, JavaScript， C#, SQL
 
-Software required: PL/SQL Developer tool, Oracle database
+Software required: PL/SQL Developer tool, Oracle database, ArcGIS pro
